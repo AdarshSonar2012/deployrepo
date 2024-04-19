@@ -1,0 +1,13 @@
+.reply{
+    font-size: 300;
+    justify-content: space-between;
+}
+.content{
+    font-weight: 400;
+}
+.mainbox{
+    margin: 10px;
+}
+.replybutton{
+    text-decoration: none;
+}

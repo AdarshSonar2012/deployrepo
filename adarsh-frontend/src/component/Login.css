@@ -1,0 +1,62 @@
+.containerlogin{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    width: 40%;
+    margin-top: 10vh;
+    border: 10px solid black;
+    border-radius: 35px;
+}
+.containerregister{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    width: 40%;
+    
+    border: 10px solid black;
+    border-radius: 35px;
+}
+.label{
+    font-weight: 600;
+}
+.maincontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.submitbutton{
+    padding-right: 11px;
+    padding-left: 11px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 10px;
+    background-color: skyblue;
+    margin-top: 5vh;
+    margin-left: 1vh;
+    margin-right: 1vh;  
+}
+.registerbutton{
+    margin-top: 40px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.password,
+.fullname,
+.email,
+.username{
+    margin-top: 2vh;
+    padding-top: 1px;
+    display: flex;
+    flex-direction: column;
+}
+.field{
+    background-color: whitesmoke;
+}

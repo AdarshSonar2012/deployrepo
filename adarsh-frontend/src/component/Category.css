@@ -1,0 +1,10 @@
+.heading{
+    font-size: larger!important;
+    font-weight: 500!important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

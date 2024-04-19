@@ -1,0 +1,15 @@
+.navbarcontents{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+}
+.appname{
+    font-size: x-large !important;
+    font-weight: 500;
+}

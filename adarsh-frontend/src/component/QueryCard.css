@@ -1,0 +1,14 @@
+.mainbox{
+    font-size: large;
+    font-weight: 500;
+    border-width: 15px;
+    margin: 10px;
+    padding: 10px;
+}
+.category{
+    font-size: large;
+    font-weight: 500;
+}
+input{
+    height: 40px;
+}
